@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 Or4cl3AI/CogniVerse is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [PostgreSQL](http://www.postgresql.org/) – Databases
 - [Redis](http://redis.io/) – In-Memory Databases
@@ -15,11 +16,13 @@ Or4cl3AI/CogniVerse is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 Or4cl3AI/CogniVerse is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
@@ -33,14 +36,15 @@ Or4cl3AI/CogniVerse is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Or4cl3AI/CogniVerse](https://github.com/Or4cl3AI/CogniVerse)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|11/24/23 <br/>Report generated|
+|26<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -191,17 +195,17 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[Flask](https://pypi.org/Flask)|v1.1.2|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[Flask-Login](https://pypi.org/Flask-Login)|v0.5.0|08/08/23|e2b-for-github[bot] |MIT|N/A|
-|[Flask-Migrate](https://pypi.org/Flask-Migrate)|v2.5.3|08/08/23|e2b-for-github[bot] |MIT|N/A|
-|[Flask-SQLAlchemy](https://pypi.org/Flask-SQLAlchemy)|v2.4.4|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[Flask-WTF](https://pypi.org/Flask-WTF)|v0.14.3|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[email-validator](https://pypi.org/email-validator)|v1.1.1|08/08/23|e2b-for-github[bot] |CC0-1.0|N/A|
-|[gunicorn](https://pypi.org/gunicorn)|v20.0.4|08/08/23|e2b-for-github[bot] |MIT|N/A|
-|[pandas](https://pypi.org/pandas)|v1.1.4|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[psycopg2-binary](https://pypi.org/psycopg2-binary)|v2.8.6|08/08/23|e2b-for-github[bot] |BSD-3-Clause-Attribution|N/A|
-|[python-dotenv](https://pypi.org/python-dotenv)|v0.15.0|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[pytorch](https://pypi.org/pytorch)|v1.7.0|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[Flask](https://pypi.org/project/Flask)|v1.1.2|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[Flask-Login](https://pypi.org/project/Flask-Login)|v0.5.0|08/08/23|e2b-for-github[bot] |MIT|N/A|
+|[Flask-Migrate](https://pypi.org/project/Flask-Migrate)|v2.5.3|08/08/23|e2b-for-github[bot] |MIT|N/A|
+|[Flask-SQLAlchemy](https://pypi.org/project/Flask-SQLAlchemy)|v2.4.4|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[Flask-WTF](https://pypi.org/project/Flask-WTF)|v0.14.3|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[email-validator](https://pypi.org/project/email-validator)|v1.1.1|08/08/23|e2b-for-github[bot] |CC0-1.0|N/A|
+|[gunicorn](https://pypi.org/project/gunicorn)|v20.0.4|08/08/23|e2b-for-github[bot] |MIT|N/A|
+|[pandas](https://pypi.org/project/pandas)|v1.1.4|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[psycopg2-binary](https://pypi.org/project/psycopg2-binary)|v2.8.6|08/08/23|e2b-for-github[bot] |BSD-3-Clause-Attribution|N/A|
+|[python-dotenv](https://pypi.org/project/python-dotenv)|v0.15.0|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[pytorch](https://pypi.org/project/pytorch)|v1.7.0|08/08/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
 
 <br/>
 <div align='center'>
