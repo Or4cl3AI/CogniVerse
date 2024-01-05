@@ -1,7 +1,8 @@
 repo_name: Or4cl3AI/CogniVerse
 report_id: 00c3866311df4fb488e66a4258c588a5
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-24T01:59:52+00:00'
+timestamp: '2024-01-05T08:34:38+00:00'
 requested_by: Or4cl3AI
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse
   detection_source: Repo Metadata
 - name: Heroku Postgres
   description: Heroku's Database-as-a-Service. Based on the most powerful open-source
@@ -45,6 +49,7 @@ tools:
   category: Data Stores
   sub_category: PostgreSQL as a Service
   image_url: https://img.stackshare.io/service/2516/original.png
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/deployment/docker-compose.yml
   detection_source: CogniVerse/deployment/docker-compose.yml
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
@@ -56,6 +61,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/deployment/docker-compose.yml
   detection_source: CogniVerse/deployment/docker-compose.yml
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
@@ -68,6 +74,7 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/deployment/docker-compose.yml
   detection_source: CogniVerse/deployment/docker-compose.yml
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
@@ -81,7 +88,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/1839/q5uAkmy7.png
-  detection_source_url: CogniVerse/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
@@ -94,6 +101,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -103,6 +111,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse
   detection_source: Repo Metadata
 - name: NGINX
   description: A high performance free open source web server powering busiest sites
@@ -113,7 +122,8 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
-  detection_source: CogniVerse/deployment/nginx.conf
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/deployment/docker-compose.yml
+  detection_source: CogniVerse/deployment/docker-compose.yml
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
 - name: PyPI
@@ -124,6 +134,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
@@ -136,6 +147,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/deployment/docker-compose.yml
   detection_source: CogniVerse/deployment/docker-compose.yml
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
@@ -145,6 +157,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/frontend/index.html
   detection_source: CogniVerse/frontend/index.html
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
@@ -158,7 +171,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
-  detection_source_url: CogniVerse/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
@@ -172,13 +185,13 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/4717/FtFnqC38_400x400.png
-  detection_source_url: CogniVerse/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
 - name: Flask
   description: A simple framework for building complex web applications
-  package_url: https://pypi.org/Flask
+  package_url: https://pypi.org/project/Flask
   version: 1.1.2
   license: BSD-3-Clause
   open_source: true
@@ -186,13 +199,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19834/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
-  detection_source_url: CogniVerse/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
 - name: Flask-Login
   description: User session management for Flask
-  package_url: https://pypi.org/Flask-Login
+  package_url: https://pypi.org/project/Flask-Login
   version: 0.5.0
   license: MIT
   open_source: true
@@ -200,13 +213,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20091/default_5d939a1a27846185eb6de438be4bf77b84b4ee87.png
-  detection_source_url: CogniVerse/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
 - name: Flask-Migrate
   description: SQLAlchemy database migrations for Flask applications using Alembic
-  package_url: https://pypi.org/Flask-Migrate
+  package_url: https://pypi.org/project/Flask-Migrate
   version: 2.5.3
   license: MIT
   open_source: true
@@ -214,13 +227,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20329/default_cf6b540611cb9b9b5d016a661f54f50ad3400f1a.png
-  detection_source_url: CogniVerse/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
 - name: Flask-SQLAlchemy
   description: Adds SQLAlchemy support to your Flask application
-  package_url: https://pypi.org/Flask-SQLAlchemy
+  package_url: https://pypi.org/project/Flask-SQLAlchemy
   version: 2.4.4
   license: BSD-3-Clause
   open_source: true
@@ -228,13 +241,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19941/default_aacb529ceff756b62765790d8d6787a041d514ff.png
-  detection_source_url: CogniVerse/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
 - name: Flask-WTF
   description: Simple integration of Flask and WTForms
-  package_url: https://pypi.org/Flask-WTF
+  package_url: https://pypi.org/project/Flask-WTF
   version: 0.14.3
   license: BSD-3-Clause
   open_source: true
@@ -242,14 +255,14 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20060/default_eed7014d799b4e750aea7c37ab970b4b62c0cf42.png
-  detection_source_url: CogniVerse/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
 - name: email-validator
   description: A robust email syntax and deliverability validation library for Python
     2.x/3.x
-  package_url: https://pypi.org/email-validator
+  package_url: https://pypi.org/project/email-validator
   version: 1.1.1
   license: CC0-1.0
   open_source: true
@@ -257,13 +270,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: CogniVerse/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
 - name: gunicorn
   description: WSGI HTTP Server for UNIX
-  package_url: https://pypi.org/gunicorn
+  package_url: https://pypi.org/project/gunicorn
   version: 20.0.4
   license: MIT
   open_source: true
@@ -271,13 +284,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19931/default_74a0c20721d3a0a1484d69586401591fe8993db2.png
-  detection_source_url: CogniVerse/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
 - name: pandas
   description: Powerful data structures for data analysis
-  package_url: https://pypi.org/pandas
+  package_url: https://pypi.org/project/pandas
   version: 1.1.4
   license: BSD-3-Clause
   open_source: true
@@ -285,13 +298,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
-  detection_source_url: CogniVerse/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
 - name: psycopg2-binary
   description: Psycopg2 - Python-PostgreSQL Database Adapter
-  package_url: https://pypi.org/psycopg2-binary
+  package_url: https://pypi.org/project/psycopg2-binary
   version: 2.8.6
   license: BSD-3-Clause-Attribution
   open_source: true
@@ -299,13 +312,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: CogniVerse/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
 - name: python-dotenv
   description: Add .env support to your django/flask apps in development and deployments
-  package_url: https://pypi.org/python-dotenv
+  package_url: https://pypi.org/project/python-dotenv
   version: 0.15.0
   license: BSD-3-Clause
   open_source: true
@@ -313,12 +326,12 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20095/default_3141eabecdd8efa55de73a33c43f2ac0d5bbf954.png
-  detection_source_url: CogniVerse/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
 - name: pytorch
-  package_url: https://pypi.org/pytorch
+  package_url: https://pypi.org/project/pytorch
   version: 1.7.0
   license: BSD-3-Clause
   open_source: true
@@ -326,7 +339,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: CogniVerse/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/CogniVerse/blob/main/CogniVerse/requirements.txt
   detection_source: CogniVerse/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-08 05:08:41.000000000 Z
