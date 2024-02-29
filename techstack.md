@@ -3,17 +3,17 @@
 ## Tech Stack
 Or4cl3AI/CogniVerse is built on the following main stack:
 
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Python](https://www.python.org) – Languages
+- [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
 - [PostgreSQL](http://www.postgresql.org/) – Databases
 - [Redis](http://redis.io/) – In-Memory Databases
-- [NGINX](http://nginx.org) – Web Servers
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- [NumPy](http://www.numpy.org/) – Data Science Tools
-- [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
-- [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
-- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [NGINX](http://nginx.org) – Web Servers
+- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- [NumPy](http://www.numpy.org/) – Data Science Tools
+- [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -23,17 +23,17 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 Or4cl3AI/CogniVerse is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'/> [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'/> [NGINX](http://nginx.org) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1839/q5uAkmy7.png' alt='SQLAlchemy'/> [SQLAlchemy](http://www.sqlalchemy.org/) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'/> [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'/> [NGINX](http://nginx.org) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4717/FtFnqC38_400x400.png' alt='TensorFlow'/> [TensorFlow](https://www.tensorflow.org) – Machine Learning Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -44,7 +44,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Or4cl3AI/CogniVerse](https://github.com/Or4cl3AI/CogniVerse)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|01/05/24 <br/>Report generated|
+|26<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
